@@ -1,0 +1,18 @@
+.addPlayer-detail{
+    margin-top: 80px;
+    color:white;
+}
+
+.logo{
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+}
+.logo img{
+    width: 100%;
+}
+.same-text{
+    text-align: center;
+    margin-bottom: 20px;
+    color:rgb(6, 15, 143);
+}

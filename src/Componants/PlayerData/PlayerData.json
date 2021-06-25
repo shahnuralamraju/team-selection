@@ -1,0 +1,164 @@
+
+
+[ {
+    "id": "1",
+    "name": "Mashrafee Mortaza",
+    "age": "37",
+    "match": "211",
+    "designation": "Bowler(Captain)",
+    "team": "Bangladesh",
+    "salary": 6520,
+    "image": "https://i.ibb.co/T0y0dBG/Mashrafe-Mortaza.png"
+  },
+  {
+    "id": "2",
+    "name": "Tamim Iqbal",
+    "age": "32",
+    "match": "192",
+    "designation": "Opnening Batsman",
+    "team": "Bangladesh",
+    "salary": 5286,
+    "image": "https://i.ibb.co/37GKp7N/Tamim-Iqbal-CWC19.png"
+  },
+  {
+    "id": "3",
+    "name": "Soumya Sarkar",
+    "age": "28",
+    "match": "44",
+    "designation": "Opening Batsman",
+    "team": "Bangladesh",
+    "salary": 6114,
+    "image": "https://i.ibb.co/bmWm4CM/Soumya-Sarkar-CWC19.png"
+  },
+  {
+    "id": "4",
+    "name": "Liton Das",
+    "age": "26",
+    "match": "28",
+    "designation": "Opnening Batsman",
+    "team": "Bangladesh",
+    "salary": 5337,
+    "image": "https://i.ibb.co/zHT5BZ7/Liton-Das-CWC19.png"
+  },
+  {
+    "id": "5",
+    "name": "Shakib AL Hasan",
+    "age": "34",
+    "match": "203",
+    "designation": "All-rounder",
+    "team": "Bangladesh",
+    "salary": 6477,
+    "image": "https://i.ibb.co/KbgSzps/Shakib-Al-Hasan-CWC19.png"
+  },
+  {
+    "id": "6",
+    "name": "Mushfiqur Rahim",
+    "age": "33",
+    "match": "205",
+    "designation": "Batsman",
+    "team": "Bangladesh",
+    "salary": 6616,
+    "image": "https://i.ibb.co/nD8HHV5/Mushfiqur-Rahim-CWC19.png"
+  },
+  {
+    "id": "7",
+    "name": "Mahmudullah Riyad",
+    "age": "35",
+    "match": "175",
+    "designation": "All-Rounder",
+    "team": "Bangladesh",
+    "salary": 5848,
+    "image": "https://i.ibb.co/3TRRMTg/Mahmudullah-CWC19.png"
+  },
+  {
+    "id": "8",
+    "name": "Mosaddek Hossain",
+    "age": "26",
+    "match": "31",
+    "designation": "All-rounder",
+    "team": "Bangladesh",
+    "salary": 6413,
+    "image": "https://i.ibb.co/9VDn0D0/Mosaddek-Hossain-CWC19.png"
+  },
+  {
+    "id": "9",
+    "name": "Sabbir Rahman",
+    "age": "29",
+    "match": "61",
+    "designation": "Batsman",
+    "team": "Bangladesh",
+    "salary": 5320,
+    "image": "https://i.ibb.co/DDk4ybY/Sabbir-Rahman-CWC19.png"
+  },
+  {
+    "id": "10",
+    "name": "Mohammad Saifuddin",
+    "age": "25",
+    "match": "20",
+    "designation": "All-rounder",
+    "team": "Bangladesh",
+    "salary": 4820,
+    "image": "https://i.ibb.co/34yWFXj/Mohammad-Saifuddin-CWC19.png"
+  },
+  {
+    "id": "11",
+    "name": "Taskin Ahmed",
+    "age": "26",
+    "match": "54",
+    "designation": "Bowler",
+    "team": "Bangladesh",
+    "salary": 3220,
+    "image": "https://i.ibb.co/q0wRWbV/taskin.png"
+  },
+  {
+    "id": "12",
+    "name": "Mohammad Mithun",
+    "age": "30",
+    "match": "26",
+    "designation": "Batsman",
+    "team": "Bangladesh",
+    "salary": 4220,
+    "image": "https://i.ibb.co/ZJGwZVt/Mohammad-Mithun-CWC19.png"
+  },
+  {
+    "id": "13",
+    "name": "Mehidy Hasan",
+    "age": "24",
+    "match": "31",
+    "designation": "Bowler",
+    "team": "Bangladesh",
+    "salary": 2900,
+    "image": "https://i.ibb.co/wBZNHdj/Mehedi-Hasan.png"
+  },
+  {
+    "id": "14",
+    "name": "Rubel Hossain",
+    "age": "31",
+    "match": "101",
+    "designation": "Bowler",
+    "team": "Bangladesh",
+    "salary": 5150,
+    "image": "https://i.ibb.co/DR04kT0/Robel-Hossain.png"
+  },
+  {
+    "id": "15",
+    "name": "Mustafizur Rahman",
+    "age": "25",
+    "match": "58",
+    "designation": "Bowler",
+    "team": "Bangladesh",
+    "salary": 4558,
+    "image": "https://i.ibb.co/JnppP7q/Mustafizur.png"
+  },
+  {
+    "id": "16",
+    "name": "Abu Jayed",
+    "age": "27",
+    "match": "8",
+    "designation": "Bowler",
+    "team": "Bangladesh",
+    "salary": 2850,
+    "image": "https://i.ibb.co/gR8Pvzm/Abu-Jayed-CWC19.png"
+  }
+  
+]

@@ -1,0 +1,32 @@
+.img-div{
+    width: 150px;
+    height: 400px;
+    overflow: hidden;
+    margin-top: -60px;
+}
+.img-div img{
+    width: 100%;
+}
+.playerDetail-container{
+    background-image: linear-gradient(215deg, #3bb78f 17%, #0bab64 74%, #3bb78f 10%,#0bab64 84%);  
+    margin-top: 50px;
+    margin-bottom: 100px;
+    height: 340px;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 10px 12px 15px #52836d;
+}
+.addPlayer-detail{
+    padding-left: 45px;
+}
+span{
+    margin-right: 5px;
+}
+.button{
+    font-size: 18px;
+    margin-top: 8px;
+    background: linear-gradient(191deg, rgba(12,193,120,1) 0%, rgba(3,80,44,1) 100%);
+
+    box-shadow: 5px 5px 10px #309971,
+               -5px -5px 8px #046942;
+}
